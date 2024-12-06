@@ -631,17 +631,10 @@
   }
 
   /* Reset some of the general styles on alert warning */
-  .alert-warning {
-    color: #664d03;
-    background-color: #fff3cd;
-    border-color: #ffecb5;
-  }
-
   .alert-warning .material-icons {
     padding-top: 0;
     margin-right: 0;
     font-size: 24px;
-    color: #664d03;
   }
 }
 
